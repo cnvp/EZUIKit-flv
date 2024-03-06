@@ -1,6 +1,6 @@
 <script setup>
 import { onMounted } from 'vue'
-import EzuikitFlv from 'ezuikit-flv'
+import EzuikitFlv from 'rsl-flv'
 
 let player = null
 

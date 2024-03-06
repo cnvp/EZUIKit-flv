@@ -68,9 +68,9 @@ eventemitter3@^4.0.0:
   resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-4.0.7.tgz#2de9b68f6528d5644ef5c59526a1b4a07306169f"
   integrity sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw==
 
-ezuikit-flv@^1.0.0-alpha.3:
+rsl-flv@^1.0.0-alpha.3:
   version "1.0.0-alpha.3"
-  resolved "https://registry.yarnpkg.com/ezuikit-flv/-/ezuikit-flv-1.0.0-alpha.3.tgz#99ebf61df9cd32c2b0f4795b743102f55a73d5df"
+  resolved "https://registry.yarnpkg.com/rsl-flv/-/rsl-flv-1.0.0-alpha.3.tgz#99ebf61df9cd32c2b0f4795b743102f55a73d5df"
   integrity sha512-fGHUoSQGEX5RJQQrOCFbIFrZ/GlyP0BL1NP2V1WBJwK0uCy3c7Hffa89FB6INNgoRcPvL5jg/xReEM+iYXHqnw==
 
 follow-redirects@^1.0.0:

@@ -4483,9 +4483,9 @@ express@^4.17.3:
     utils-merge "1.0.1"
     vary "~1.1.2"
 
-ezuikit-flv@^1.0.0-alpha.0:
+rsl-flv@^1.0.0-alpha.0:
   version "1.0.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/ezuikit-flv/-/ezuikit-flv-1.0.0-alpha.0.tgz#f076e9c158a997f3fb671469ca634a2755c349b8"
+  resolved "https://registry.yarnpkg.com/rsl-flv/-/rsl-flv-1.0.0-alpha.0.tgz#f076e9c158a997f3fb671469ca634a2755c349b8"
   integrity sha512-odL2cpGt8avWqVL+lbBzF5A6r/JLJ7rGS0TEhGZoialOUwcLKMoHHETKIRom5PP8GGwdcFQsQLgPpXLp1DOF9A==
   dependencies:
     "@ezviz/ezmonitor" "^1.0.0"

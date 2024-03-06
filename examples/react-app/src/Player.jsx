@@ -1,6 +1,6 @@
 import './Player.css';
 import { useCallback, useEffect, useRef } from 'react';
-import EzuikitFlv from 'ezuikit-flv';
+import EzuikitFlv from 'rsl-flv';
 
 function Player() {
   const playerRef = useRef();

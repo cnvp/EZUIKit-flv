@@ -9638,7 +9638,7 @@
                 n.ENABLE_CALLBACK && (null === (i = n.emitter) || void 0 === i || i.emit("log", "verbose", s))
               }
             }
-            n.FORCE_GLOBAL_TAG = !1, n.GLOBAL_TAG = "ezuikit-flv", n.ENABLE_CALLBACK = !1, n.emitter = new s.EventEmitter, n.ENABLE_ERROR = !0, n.ENABLE_INFO = !0, n.ENABLE_WARN = !0, n.ENABLE_DEBUG = !0, n.ENABLE_VERBOSE = !0;
+            n.FORCE_GLOBAL_TAG = !1, n.GLOBAL_TAG = "rsl-flv", n.ENABLE_CALLBACK = !1, n.emitter = new s.EventEmitter, n.ENABLE_ERROR = !0, n.ENABLE_INFO = !0, n.ENABLE_WARN = !0, n.ENABLE_DEBUG = !0, n.ENABLE_VERBOSE = !0;
             const r = n
           },
           278: (e, t, i) => {

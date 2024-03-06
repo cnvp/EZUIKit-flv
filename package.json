@@ -1,6 +1,6 @@
 {
-  "name": "RSL-flv",
-  "version": "1.0.0",
+  "name": "rsl-flv",
+  "version": "1.0.1",
   "main": "./index.js",
   "types": "./types",
   "files": [
@@ -13,8 +13,8 @@
     "types"
   ],
   "bugs": {
-    "url": "https://github.com/cnvp/RSL-flv/issues"
+    "url": "https://github.com/cnvp/rls-flv/issues"
   },
-  "repository": "git@github.com:cnvp/RSL-flv.git",
-  "homepage": "https://ezviz-openbiz.github.io/RSL-flv/"
+  "repository": "git@github.com:cnvp/rls-flv.git",
+  "homepage": "https://ezviz-openbiz.github.io/rls-flv/"
 }
