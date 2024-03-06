@@ -1,5 +1,5 @@
 {
-  "name": "ezuikit-flv",
+  "name": "RSL-flv",
   "version": "1.0.0",
   "main": "./index.js",
   "types": "./types",
@@ -13,8 +13,8 @@
     "types"
   ],
   "bugs": {
-    "url": "https://github.com/Ezviz-OpenBiz/EZUIKit-flv/issues"
+    "url": "https://github.com/cnvp/RSL-flv/issues"
   },
-  "repository": "git@github.com:Ezviz-OpenBiz/EZUIKit-flv.git",
-  "homepage": "https://ezviz-openbiz.github.io/EZUIKit-flv/"
+  "repository": "git@github.com:cnvp/RSL-flv.git",
+  "homepage": "https://ezviz-openbiz.github.io/RSL-flv/"
 }
