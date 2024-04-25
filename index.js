@@ -2981,7 +2981,7 @@
     $t = e => {
       const t = e.split("?"),
         i = new URLSearchParams(t[1]);
-      return i.delete("vc"), i.set("vc", Gt().toString()), t[0] + "?" + i.toString()
+      return i.delete("vc"), t[0] + "?" + i.toString()
     };
 
   function Wt(e) {
