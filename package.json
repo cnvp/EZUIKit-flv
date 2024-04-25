@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/cnvp/rls-flv/issues"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": "git@github.com:cnvp/rls-flv.git",
   "homepage": "https://ezviz-openbiz.github.io/rls-flv/"
 }
