@@ -8646,7 +8646,7 @@
                   (null == e ? void 0 : e.url) && (e.url = (e => {
                     const t = e.split("?"),
                       i = new URLSearchParams(t[1]);
-                    return i.delete("vc"), i.set("vc", P.reduce(((e, t) => e + (M[t] || 0)), 0).toString()), t[0] + "?" + i.toString()
+                    return i.delete("vc"), t[0] + "?" + i.toString()
                   })(e.url));
                   const i = e;
                   if (null == i || "object" != typeof i) throw new k.OC("MediaDataSource must be an javascript object!");
