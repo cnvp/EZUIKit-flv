@@ -2267,7 +2267,8 @@
         isXHR: !1,
         isImg: !1,
         isNavigator: !1
-      }, this.checkUrl(this.url) ? this.sendInfo(e, t) : console.log("上报信息url地址格式不正确,url=", this.url)
+      }, this.checkUrl(this.url) ? this.sendInfo(e, t) : ''
+      // console.log("上报信息url地址格式不正确,url=", this.url)
     }
     sendInfo(e, t = {}) {
       let i = new Ue,
@@ -3004,15 +3005,17 @@
   }
   class Qt {
     static initMonitor() {
-      this.monitor = new Vt({
-        url: "https://log.ys7.com/statistics.do/opensdk_ezuikit",
-        jsError: !1,
-        promiseError: !1,
-        resourceError: !1,
-        extendsInfo: {
-          getDynamic: () => ({})
-        }
-      })
+      // 修改上报地址
+      // this.monitor = new Vt({
+      //   url: "/api/log/report",
+      //   jsError: !1,
+      //   promiseError: !1,
+      //   resourceError: !1,
+      //   extendsInfo: {
+      //     getDynamic: () => ({})
+      //   }
+      // })
+      this.monitor = () => {}
     }
     static report(e, t = {}) {
       this.monitor || Qt.initMonitor();
